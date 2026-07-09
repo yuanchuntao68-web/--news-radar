@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-08T23:16:46.923109Z",
+  "generated_at": "2026-07-09T01:11:19.308393Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 178,
-      "duration_ms": 7435,
+      "item_count": 175,
+      "duration_ms": 2717,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 7,
-      "duration_ms": 240,
+      "duration_ms": 289,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 34,
-      "duration_ms": 584,
+      "duration_ms": 47,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 289,
+      "duration_ms": 420,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 385,
+      "duration_ms": 367,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 348,
-      "duration_ms": 13481,
+      "item_count": 369,
+      "duration_ms": 15073,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 972,
+      "duration_ms": 797,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 2998,
-      "duration_ms": 1309,
+      "item_count": 2972,
+      "duration_ms": 1450,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 66,
-      "duration_ms": 513,
+      "item_count": 73,
+      "duration_ms": 415,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 266,
+      "duration_ms": 290,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1740,
+      "duration_ms": 3021,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HOT",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 20308,
+      "duration_ms": 21434,
       "error": "HTTPSConnectionPool(host='aihot.virxact.com', port=443): Max retries exceeded with url: /feed/daily.xml (Caused by NameResolutionError(\"HTTPSConnection(host='aihot.virxact.com', port=443): Failed to resolve 'aihot.virxact.com' ([Errno -2] Name or service not known)\"))"
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 125,
-      "duration_ms": 1628,
+      "duration_ms": 988,
       "error": null
     },
     {
@@ -111,7 +111,7 @@
       "ok": true,
       "partial_failures": 0,
       "item_count": 355,
-      "duration_ms": 7134,
+      "duration_ms": 7719,
       "error": null,
       "feed_count": 7,
       "effective_feed_count": 7,
@@ -126,9 +126,9 @@
     "aihot"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 5282,
-  "items_before_topic_filter": 7971,
-  "items_in_24h": 973,
+  "fetched_raw_items": 5281,
+  "items_before_topic_filter": 7535,
+  "items_in_24h": 900,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -151,7 +151,7 @@
         "effective_feed_url": "https://rss-mstdn.studiofreesia.com/@fashionpress.rss",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 1374,
+        "duration_ms": 1539,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -166,7 +166,7 @@
         "effective_feed_url": "https://www.jnto.go.jp/en/news/rss.xml",
         "ok": true,
         "item_count": 15,
-        "duration_ms": 569,
+        "duration_ms": 589,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -181,7 +181,7 @@
         "effective_feed_url": "https://www.japan-guide.com/rss/",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 560,
+        "duration_ms": 557,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -196,7 +196,7 @@
         "effective_feed_url": "https://prtimes.jp/index.rdf",
         "ok": true,
         "item_count": 200,
-        "duration_ms": 341,
+        "duration_ms": 425,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -211,7 +211,7 @@
         "effective_feed_url": "https://tokyocheapo.com/feed",
         "ok": true,
         "item_count": 30,
-        "duration_ms": 910,
+        "duration_ms": 822,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -226,7 +226,7 @@
         "effective_feed_url": "https://tokyoweekender.com/travel/feed",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 2661,
+        "duration_ms": 2901,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -241,7 +241,7 @@
         "effective_feed_url": "https://www.customs.go.jp/english/news.rss",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 719,
+        "duration_ms": 886,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -270,6 +270,6 @@
     "effective_result_cap": 20,
     "estimated_max_cost_usd_per_run": 0.1,
     "run_utc_hour": 0,
-    "generated_date_utc": "2026-07-08"
+    "generated_date_utc": "2026-07-09"
   }
 }
