@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T19:12:12.348837Z",
+  "generated_at": "2026-08-11T20:10:55.511404Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 173,
-      "duration_ms": 1970,
+      "duration_ms": 2762,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 41,
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 40,
-      "duration_ms": 29,
+      "duration_ms": 68,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 445,
+      "duration_ms": 365,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 337,
+      "duration_ms": 355,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 314,
-      "duration_ms": 88502,
+      "duration_ms": 12872,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 682,
+      "duration_ms": 1064,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 2817,
-      "duration_ms": 1406,
+      "item_count": 3028,
+      "duration_ms": 1556,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 77,
-      "duration_ms": 526,
+      "item_count": 79,
+      "duration_ms": 597,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5029,
+      "duration_ms": 4983,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ai.hubtoday.app', port=443): Failed to resolve 'ai.hubtoday.app' ([Errno -2] Name or service not known)\"))"
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1495,
+      "duration_ms": 1780,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 777,
+      "duration_ms": 1039,
       "error": null
     },
     {
@@ -102,21 +102,21 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 128,
-      "duration_ms": 944,
+      "duration_ms": 5583,
       "error": null
     },
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "ok": true,
-      "partial_failures": 1,
+      "partial_failures": 0,
       "item_count": 355,
-      "duration_ms": 23516,
-      "error": "1 feeds failed",
+      "duration_ms": 7756,
+      "error": null,
       "feed_count": 7,
       "effective_feed_count": 7,
-      "ok_feed_count": 6,
-      "failed_feed_count": 1,
+      "ok_feed_count": 7,
+      "failed_feed_count": 0,
       "skipped_feed_count": 0,
       "replaced_feed_count": 0
     }
@@ -127,19 +127,18 @@
     "aihubtoday"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 5124,
-  "items_before_topic_filter": 7743,
-  "items_in_24h": 793,
+  "fetched_raw_items": 5337,
+  "items_before_topic_filter": 7735,
+  "items_in_24h": 801,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
     "feed_total": 7,
     "effective_feed_total": 7,
-    "ok_feeds": 6,
-    "failed_feeds": [
-      "https://rss-mstdn.studiofreesia.com/@fashionpress.rss"
-    ],
+    "ok_feeds": 7,
+    "failed_feeds": [],
     "zero_item_feeds": [
+      "https://rss-mstdn.studiofreesia.com/@fashionpress.rss",
       "https://www.japan-guide.com/rss/"
     ],
     "skipped_feeds": [],
@@ -151,10 +150,10 @@
         "feed_title": "Fashion Press（IP展览/快闪活动）",
         "feed_url": "https://rss-mstdn.studiofreesia.com/@fashionpress.rss",
         "effective_feed_url": "https://rss-mstdn.studiofreesia.com/@fashionpress.rss",
-        "ok": false,
+        "ok": true,
         "item_count": 0,
-        "duration_ms": 12574,
-        "error": "HTTPSConnectionPool(host='rss-mstdn.studiofreesia.com', port=443): Max retries exceeded with url: /@fashionpress.rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='rss-mstdn.studiofreesia.com', port=443) at 0x7f6dce7ef7d0>, 'Connection to rss-mstdn.studiofreesia.com timed out. (connect timeout=12)'))",
+        "duration_ms": 1297,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -168,7 +167,7 @@
         "effective_feed_url": "https://www.jnto.go.jp/en/news/rss.xml",
         "ok": true,
         "item_count": 15,
-        "duration_ms": 699,
+        "duration_ms": 720,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -183,7 +182,7 @@
         "effective_feed_url": "https://www.japan-guide.com/rss/",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 677,
+        "duration_ms": 708,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -198,7 +197,7 @@
         "effective_feed_url": "https://prtimes.jp/index.rdf",
         "ok": true,
         "item_count": 200,
-        "duration_ms": 523,
+        "duration_ms": 476,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -213,7 +212,7 @@
         "effective_feed_url": "https://tokyocheapo.com/feed",
         "ok": true,
         "item_count": 30,
-        "duration_ms": 721,
+        "duration_ms": 966,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -228,7 +227,7 @@
         "effective_feed_url": "https://tokyoweekender.com/travel/feed",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 2653,
+        "duration_ms": 2648,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -243,7 +242,7 @@
         "effective_feed_url": "https://www.customs.go.jp/english/news.rss",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 5669,
+        "duration_ms": 941,
         "error": null,
         "skipped": false,
         "skip_reason": null,
