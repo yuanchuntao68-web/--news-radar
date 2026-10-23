@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-22T21:52:04.720081Z",
+  "generated_at": "2026-10-23T00:30:45.717826Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 226,
-      "duration_ms": 3103,
+      "item_count": 224,
+      "duration_ms": 2756,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 305,
+      "duration_ms": 249,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 37,
-      "duration_ms": 81,
+      "duration_ms": 95,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 401,
+      "duration_ms": 387,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 336,
+      "duration_ms": 319,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 318,
-      "duration_ms": 52456,
+      "item_count": 326,
+      "duration_ms": 55930,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 343,
+      "duration_ms": 486,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3033,
-      "duration_ms": 1383,
+      "item_count": 3032,
+      "duration_ms": 1220,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 64,
-      "duration_ms": 833,
+      "item_count": 60,
+      "duration_ms": 609,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5879,
+      "duration_ms": 5606,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))"
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1293,
+      "duration_ms": 7406,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 51,
-      "duration_ms": 952,
+      "duration_ms": 1225,
       "error": null
     },
     {
@@ -102,21 +102,21 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 119,
-      "duration_ms": 3190,
+      "duration_ms": 1836,
       "error": null
     },
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "ok": true,
-      "partial_failures": 1,
+      "partial_failures": 2,
       "item_count": 345,
-      "duration_ms": 16202,
-      "error": "1 feeds failed",
+      "duration_ms": 27035,
+      "error": "2 feeds failed",
       "feed_count": 7,
       "effective_feed_count": 7,
-      "ok_feed_count": 6,
-      "failed_feed_count": 1,
+      "ok_feed_count": 5,
+      "failed_feed_count": 2,
       "skipped_feed_count": 0,
       "replaced_feed_count": 0
     }
@@ -126,21 +126,21 @@
     "aihubtoday"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 5372,
-  "items_before_topic_filter": 6436,
-  "items_in_24h": 720,
+  "fetched_raw_items": 5373,
+  "items_before_topic_filter": 5773,
+  "items_in_24h": 657,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
     "feed_total": 7,
     "effective_feed_total": 7,
-    "ok_feeds": 6,
+    "ok_feeds": 5,
     "failed_feeds": [
+      "https://www.japan-guide.com/rss/",
       "https://tokyoweekender.com/travel/feed"
     ],
     "zero_item_feeds": [
-      "https://rss-mstdn.studiofreesia.com/@fashionpress.rss",
-      "https://www.japan-guide.com/rss/"
+      "https://rss-mstdn.studiofreesia.com/@fashionpress.rss"
     ],
     "skipped_feeds": [],
     "replaced_feeds": [],
@@ -153,7 +153,7 @@
         "effective_feed_url": "https://rss-mstdn.studiofreesia.com/@fashionpress.rss",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 810,
+        "duration_ms": 814,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -168,7 +168,7 @@
         "effective_feed_url": "https://www.jnto.go.jp/en/news/rss.xml",
         "ok": true,
         "item_count": 15,
-        "duration_ms": 751,
+        "duration_ms": 275,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -181,10 +181,10 @@
         "feed_title": "Japan-Guide（交通景点百科）",
         "feed_url": "https://www.japan-guide.com/rss/",
         "effective_feed_url": "https://www.japan-guide.com/rss/",
-        "ok": true,
+        "ok": false,
         "item_count": 0,
-        "duration_ms": 601,
-        "error": null,
+        "duration_ms": 12057,
+        "error": "HTTPSConnectionPool(host='www.japan-guide.com', port=443): Max retries exceeded with url: /rss/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.japan-guide.com', port=443) at 0x7fcf2fade550>, 'Connection to www.japan-guide.com timed out. (connect timeout=12)'))",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -198,7 +198,7 @@
         "effective_feed_url": "https://prtimes.jp/index.rdf",
         "ok": true,
         "item_count": 200,
-        "duration_ms": 349,
+        "duration_ms": 336,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -213,7 +213,7 @@
         "effective_feed_url": "https://tokyocheapo.com/feed",
         "ok": true,
         "item_count": 30,
-        "duration_ms": 823,
+        "duration_ms": 788,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -228,7 +228,7 @@
         "effective_feed_url": "https://tokyoweekender.com/travel/feed",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12116,
+        "duration_ms": 12101,
         "error": "HTTPSConnectionPool(host='tokyoweekender.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -243,7 +243,7 @@
         "effective_feed_url": "https://www.customs.go.jp/english/news.rss",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 752,
+        "duration_ms": 664,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -272,6 +272,6 @@
     "effective_result_cap": 20,
     "estimated_max_cost_usd_per_run": 0.1,
     "run_utc_hour": 0,
-    "generated_date_utc": "2026-10-22"
+    "generated_date_utc": "2026-10-23"
   }
 }
